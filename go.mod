@@ -81,7 +81,7 @@ require (
 	github.com/zclconf/go-cty-debug v0.0.0-20191215020915-b22d67c1ba0b
 	github.com/zclconf/go-cty-yaml v1.0.2
 	go.etcd.io/etcd v0.5.0-alpha.5.0.20210428180535-15715dcf1ace
-	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
+	golang.org/x/crypto v0.1.0
 	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4
 	golang.org/x/net v0.1.0
 	golang.org/x/oauth2 v0.1.0
