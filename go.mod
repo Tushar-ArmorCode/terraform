@@ -65,7 +65,7 @@ require (
 	github.com/mitchellh/gox v1.0.1
 	github.com/mitchellh/mapstructure v1.1.2
 	github.com/mitchellh/panicwrap v1.0.0
-	github.com/mitchellh/reflectwalk v1.0.1
+	github.com/mitchellh/reflectwalk v1.0.2
 	github.com/packer-community/winrmcp v0.0.0-20180921211025-c76d91c1e7db
 	github.com/pkg/browser v0.0.0-20201207095918-0426ae3fba23
 	github.com/pkg/errors v0.9.1
