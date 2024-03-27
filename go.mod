@@ -147,7 +147,7 @@ require (
 	github.com/hashicorp/go-msgpack v0.5.4 // indirect
 	github.com/hashicorp/go-rootcerts v1.0.2 // indirect
 	github.com/hashicorp/go-safetemp v1.0.0 // indirect
-	github.com/hashicorp/go-slug v0.5.0 // indirect
+	github.com/hashicorp/go-slug v0.4.1 // indirect
 	github.com/hashicorp/golang-lru v0.5.1 // indirect
 	github.com/hashicorp/jsonapi v0.0.0-20210518035559-1e50d74c8db3 // indirect
 	github.com/hashicorp/serf v0.9.5 // indirect
